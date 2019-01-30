@@ -1,0 +1,11 @@
+.ezjson{
+    
+}
+.ezjson pre{
+    position: relative;
+}
+.ezjson .md-icon-button{
+    position: absolute;
+    right: 0;
+    top: 5px;
+}
